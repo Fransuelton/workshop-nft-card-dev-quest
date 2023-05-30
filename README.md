@@ -8,7 +8,7 @@ Está é uma solução para o desafio [NFT preview card component challenge on F
 ![](./src/readme/screenshot.png)
 ![](./src/readme/demo.gif)
 
-[Acesse o Deployment do projeto clicando aqui](https://your-solution-url.com)
+[Acesse o Deployment do projeto clicando aqui](https://fransuelton.github.io/workshop-nft-card-dev-quest/)
 
 ## Tecnologias Utilizadas 🛠️
 
